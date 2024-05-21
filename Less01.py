@@ -1,0 +1,8 @@
+name=('Василий')
+print('name: ', name, type(name))
+age=(59)
+print('age: ', age, type(age))
+new_age=(60)
+print('new age: ',new_age, type(new_age))
+is_student=(True)
+print('is student: ',is_student, type(is_student))
